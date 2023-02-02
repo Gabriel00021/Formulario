@@ -1,0 +1,28 @@
+input{
+margin-top: 10px;
+
+
+}
+
+form{
+
+margin-top: 176px;
+/* background-color: darkslateblue; */
+background: linear-gradient(rgb(209, 8, 192), blue);
+width: 179px;
+margin-left: 550px;
+padding: 50px;
+}
+
+
+
+
+body{
+
+background-image: url(pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+}
